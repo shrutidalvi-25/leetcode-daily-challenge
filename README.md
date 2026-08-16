@@ -16,11 +16,11 @@ compare notes, but track progress in our own separate repos.
 <!-- STREAK_END -->
 
 <!-- PROGRESS_BAR_START -->
-`░░░░░░░░░░░░░░░░░░░░` **1 / 625 days (0.2%)**
+`░░░░░░░░░░░░░░░░░░░░` **2 / 625 days (0.3%)**
 <!-- PROGRESS_BAR_END -->
 
 <!-- STATUS_START -->
-**Status: Day 1 complete** (last solved: 2026-08-16). Next up: Day 2 — Valid Anagram (2026-08-17).
+**Status: Day 2 complete** (last solved: 2026-08-16). Next up: Day 3 — Contains Duplicate (2026-08-17).
 <!-- STATUS_END -->
 
 ## Ground rule

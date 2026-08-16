@@ -11,6 +11,7 @@ table below unless you're fixing a mistake.
 | Day | Date | Problem | Difficulty | Approach/Rationale | Time/Space Complexity | Solution Link |
 |---|---|---|---|---|---|---|
 | 1 | 2026-08-16 | Two Sum | Easy | Brute-force nested loop checking every pair for target sum. | O(n^2) / O(1) | [day-001-two-sum.java](solutions/day-001-two-sum.java) |
+| 2 | 2026-08-16 | Valid Anagram | Easy | Sorted both char arrays and compared for equality after an early length check. | O(n log n) / O(n) | [day-002-valid-anagram.java](solutions/day-002-valid-anagram.java) |
 <!-- COMPLETE_DAY_INSERT_MARKER -->
 
 ## Redo log
