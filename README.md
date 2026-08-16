@@ -19,7 +19,9 @@ compare notes, but track progress in our own separate repos.
 `░░░░░░░░░░░░░░░░░░░░` **1 / 625 days (0.2%)**
 <!-- PROGRESS_BAR_END -->
 
-**Status: Day 0 — not yet started.** First problem scheduled for 2026-08-16.
+<!-- STATUS_START -->
+**Status: Day 1 complete** (last solved: 2026-08-16). Next up: Day 2 — Valid Anagram (2026-08-17).
+<!-- STATUS_END -->
 
 ## Ground rule
 

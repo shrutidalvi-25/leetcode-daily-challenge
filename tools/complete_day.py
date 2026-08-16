@@ -113,6 +113,34 @@ def update_progress_bar_in_readme(completed, total, bar_width=20):
         f.write(content)
 
 
+def update_status_in_readme(day_num, last_date, next_row):
+    with open(README_PATH, encoding="utf-8") as f:
+        content = f.read()
+
+    if next_row:
+        status_line = (
+            f"**Status: Day {day_num} complete** (last solved: {last_date}). "
+            f"Next up: Day {next_row['day_number']} — {next_row['problem_name']} "
+            f"({next_row['date']})."
+        )
+    else:
+        status_line = (
+            f"**Status: Day {day_num} complete** (last solved: {last_date}). "
+            f"All 625 days done — challenge complete."
+        )
+
+    new_block = f"<!-- STATUS_START -->\n{status_line}\n<!-- STATUS_END -->"
+    content = re.sub(
+        r"<!-- STATUS_START -->.*?<!-- STATUS_END -->",
+        new_block,
+        content,
+        flags=re.DOTALL,
+    )
+
+    with open(README_PATH, "w", encoding="utf-8") as f:
+        f.write(content)
+
+
 def main():
     if len(sys.argv) != 5:
         print(__doc__)
@@ -181,6 +209,7 @@ def main():
 
     # Report tomorrow's task
     next_row = rows[idx + 1] if idx + 1 < len(rows) else None
+    update_status_in_readme(day_num, today.isoformat(), next_row)
     print(f"Day {day_num} logged for {today.isoformat()}: {problem_name} ({difficulty})")
     print(f"Streak -> current: {current_streak} day(s), longest: {longest_streak} day(s)")
     if next_row:
