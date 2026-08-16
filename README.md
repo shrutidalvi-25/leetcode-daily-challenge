@@ -12,11 +12,11 @@ This schedule is shared with a friend doing the same challenge in parallel
 compare notes, but track progress in our own separate repos.
 
 <!-- STREAK_START -->
-Current streak: 0 days · Longest streak: 0 days
+🔥 **Current streak:** 1 day · **Longest streak:** 1 day
 <!-- STREAK_END -->
 
 <!-- PROGRESS_BAR_START -->
-`....................` **0 / 625 days (0.0%)**
+`░░░░░░░░░░░░░░░░░░░░` **1 / 625 days (0.2%)**
 <!-- PROGRESS_BAR_END -->
 
 **Status: Day 0 — not yet started.** First problem scheduled for 2026-08-16.

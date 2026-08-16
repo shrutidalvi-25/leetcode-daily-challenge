@@ -10,6 +10,7 @@ table below unless you're fixing a mistake.
 
 | Day | Date | Problem | Difficulty | Approach/Rationale | Time/Space Complexity | Solution Link |
 |---|---|---|---|---|---|---|
+| 1 | 2026-08-16 | Two Sum | Easy | Brute-force nested loop checking every pair for target sum. | O(n^2) / O(1) | [day-001-two-sum.java](solutions/day-001-two-sum.java) |
 <!-- COMPLETE_DAY_INSERT_MARKER -->
 
 ## Redo log
