@@ -12,15 +12,15 @@ This schedule is shared with a friend doing the same challenge in parallel
 compare notes, but track progress in our own separate repos.
 
 <!-- STREAK_START -->
-🔥 **Current streak:** 1 day · **Longest streak:** 1 day
+🔥 **Current streak:** 2 days · **Longest streak:** 2 days
 <!-- STREAK_END -->
 
 <!-- PROGRESS_BAR_START -->
-`░░░░░░░░░░░░░░░░░░░░` **2 / 625 days (0.3%)**
+`░░░░░░░░░░░░░░░░░░░░` **3 / 625 days (0.5%)**
 <!-- PROGRESS_BAR_END -->
 
 <!-- STATUS_START -->
-**Status: Day 2 complete** (last solved: 2026-08-16). Next up: Day 3 — Contains Duplicate (2026-08-17).
+**Status: Day 3 complete** (last solved: 2026-08-17). Next up: Day 4 — Valid Palindrome (2026-08-18).
 <!-- STATUS_END -->
 
 ## Ground rule
