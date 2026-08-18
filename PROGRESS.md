@@ -14,6 +14,7 @@ table below unless you're fixing a mistake.
 | 2 | 2026-08-16 | Valid Anagram | Easy | Sorted both char arrays and compared for equality after an early length check. | O(n log n) / O(n) | [day-002-valid-anagram.java](solutions/day-002-valid-anagram.java) |
 | 3 | 2026-08-17 | Contains Duplicate | Easy | Used a HashSet, adding each number and checking membership before insert; return true on first repeat, false if loop completes. | O(n) / O(n) | [day-003-contains-duplicate.java](solutions/day-003-contains-duplicate.java) |
 | 4 | 2026-08-17 | Valid Palindrome | Easy | Lowercased and stripped non-alphanumeric characters via regex, then compared the string to its reversed StringBuilder form. | O(n) / O(n) | [day-004-valid-palindrome.java](solutions/day-004-valid-palindrome.java) |
+| 5 | 2026-08-18 | Reverse String | Easy | Two-pointer in-place swap from both ends toward the middle. | O(n) / O(1) | [day-005-reverse-string.java](solutions/day-005-reverse-string.java) |
 <!-- COMPLETE_DAY_INSERT_MARKER -->
 
 ## Redo log
