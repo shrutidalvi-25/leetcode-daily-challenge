@@ -12,15 +12,15 @@ This schedule is shared with a friend doing the same challenge in parallel
 compare notes, but track progress in our own separate repos.
 
 <!-- STREAK_START -->
-🔥 **Current streak:** 2 days · **Longest streak:** 2 days
+🔥 **Current streak:** 1 day · **Longest streak:** 2 days
 <!-- STREAK_END -->
 
 <!-- PROGRESS_BAR_START -->
-`░░░░░░░░░░░░░░░░░░░░` **5 / 625 days (0.8%)**
+`░░░░░░░░░░░░░░░░░░░░` **6 / 625 days (1.0%)**
 <!-- PROGRESS_BAR_END -->
 
 <!-- STATUS_START -->
-**Status: Day 5 complete** (last solved: 2026-08-18). Next up: Day 6 — Best Time to Buy and Sell Stock (2026-08-19).
+**Status: Day 6 complete** (last solved: 2026-08-20). Next up: Day 7 — Majority Element (2026-08-21).
 <!-- STATUS_END -->
 
 ## Ground rule
