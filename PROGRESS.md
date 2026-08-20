@@ -16,6 +16,7 @@ table below unless you're fixing a mistake.
 | 4 | 2026-08-17 | Valid Palindrome | Easy | Lowercased and stripped non-alphanumeric characters via regex, then compared the string to its reversed StringBuilder form. | O(n) / O(n) | [day-004-valid-palindrome.java](solutions/day-004-valid-palindrome.java) |
 | 5 | 2026-08-18 | Reverse String | Easy | Two-pointer in-place swap from both ends toward the middle. | O(n) / O(1) | [day-005-reverse-string.java](solutions/day-005-reverse-string.java) |
 | 6 | 2026-08-20 | Best Time to Buy and Sell Stock | Easy | one-pass min-price tracking, update max profit as we scan | O(n) / O(1) | [day-006-best-time-to-buy-and-sell-stock.java](solutions/day-006-best-time-to-buy-and-sell-stock.java) |
+| 7 | 2026-08-20 | Majority Element | Easy | Boyer-Moore Voting Algorithm - track a candidate and a running count; reset candidate when count hits 0, increment/decrement based on match | O(n) / O(1) | [day-007-majority-element.java](solutions/day-007-majority-element.java) |
 <!-- COMPLETE_DAY_INSERT_MARKER -->
 
 ## Redo log

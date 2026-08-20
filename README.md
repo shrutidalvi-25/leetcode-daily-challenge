@@ -16,11 +16,11 @@ compare notes, but track progress in our own separate repos.
 <!-- STREAK_END -->
 
 <!-- PROGRESS_BAR_START -->
-`░░░░░░░░░░░░░░░░░░░░` **6 / 625 days (1.0%)**
+`░░░░░░░░░░░░░░░░░░░░` **7 / 625 days (1.1%)**
 <!-- PROGRESS_BAR_END -->
 
 <!-- STATUS_START -->
-**Status: Day 6 complete** (last solved: 2026-08-20). Next up: Day 7 — Majority Element (2026-08-21).
+**Status: Day 7 complete** (last solved: 2026-08-20). Next up: Day 8 — Move Zeroes (2026-08-21).
 <!-- STATUS_END -->
 
 ## Ground rule
