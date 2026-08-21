@@ -12,15 +12,15 @@ This schedule is shared with a friend doing the same challenge in parallel
 compare notes, but track progress in our own separate repos.
 
 <!-- STREAK_START -->
-🔥 **Current streak:** 1 day · **Longest streak:** 2 days
+🔥 **Current streak:** 2 days · **Longest streak:** 2 days
 <!-- STREAK_END -->
 
 <!-- PROGRESS_BAR_START -->
-`░░░░░░░░░░░░░░░░░░░░` **7 / 625 days (1.1%)**
+`░░░░░░░░░░░░░░░░░░░░` **8 / 625 days (1.3%)**
 <!-- PROGRESS_BAR_END -->
 
 <!-- STATUS_START -->
-**Status: Day 7 complete** (last solved: 2026-08-20). Next up: Day 8 — Move Zeroes (2026-08-21).
+**Status: Day 8 complete** (last solved: 2026-08-21). Next up: Day 9 — Plus One (2026-08-22).
 <!-- STATUS_END -->
 
 ## Ground rule
