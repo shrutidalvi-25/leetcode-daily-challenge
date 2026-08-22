@@ -18,6 +18,7 @@ table below unless you're fixing a mistake.
 | 6 | 2026-08-20 | Best Time to Buy and Sell Stock | Easy | one-pass min-price tracking, update max profit as we scan | O(n) / O(1) | [day-006-best-time-to-buy-and-sell-stock.java](solutions/day-006-best-time-to-buy-and-sell-stock.java) |
 | 7 | 2026-08-20 | Majority Element | Easy | Boyer-Moore Voting Algorithm - track a candidate and a running count; reset candidate when count hits 0, increment/decrement based on match | O(n) / O(1) | [day-007-majority-element.java](solutions/day-007-majority-element.java) |
 | 8 | 2026-08-21 | Move Zeroes | Easy | Two-pointer/index technique: scan and shift non-zero elements to the front, then fill the remaining tail with zeroes. | O(n) / O(1) | [day-008-move-zeroes.java](solutions/day-008-move-zeroes.java) |
+| 9 | 2026-08-22 | Plus One | Easy | Two-pointer digit increment from the end with carry propagation; if all digits are 9, allocate new array of length+1 with leading 1 | O(n) / O(1) average, O(n) only for all-9s overflow case | [day-009-plus-one.java](solutions/day-009-plus-one.java) |
 <!-- COMPLETE_DAY_INSERT_MARKER -->
 
 ## Redo log

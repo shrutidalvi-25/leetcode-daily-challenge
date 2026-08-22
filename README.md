@@ -12,15 +12,15 @@ This schedule is shared with a friend doing the same challenge in parallel
 compare notes, but track progress in our own separate repos.
 
 <!-- STREAK_START -->
-🔥 **Current streak:** 2 days · **Longest streak:** 2 days
+🔥 **Current streak:** 3 days · **Longest streak:** 3 days
 <!-- STREAK_END -->
 
 <!-- PROGRESS_BAR_START -->
-`░░░░░░░░░░░░░░░░░░░░` **8 / 625 days (1.3%)**
+`░░░░░░░░░░░░░░░░░░░░` **9 / 625 days (1.4%)**
 <!-- PROGRESS_BAR_END -->
 
 <!-- STATUS_START -->
-**Status: Day 8 complete** (last solved: 2026-08-21). Next up: Day 9 — Plus One (2026-08-22).
+**Status: Day 9 complete** (last solved: 2026-08-22). Next up: Day 10 — Remove Duplicates from Sorted Array (2026-08-23).
 <!-- STATUS_END -->
 
 ## Ground rule
