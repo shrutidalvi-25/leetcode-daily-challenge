@@ -12,15 +12,15 @@ This schedule is shared with a friend doing the same challenge in parallel
 compare notes, but track progress in our own separate repos.
 
 <!-- STREAK_START -->
-🔥 **Current streak:** 4 days · **Longest streak:** 4 days
+🔥 **Current streak:** 5 days · **Longest streak:** 5 days
 <!-- STREAK_END -->
 
 <!-- PROGRESS_BAR_START -->
-`░░░░░░░░░░░░░░░░░░░░` **10 / 625 days (1.6%)**
+`░░░░░░░░░░░░░░░░░░░░` **11 / 625 days (1.8%)**
 <!-- PROGRESS_BAR_END -->
 
 <!-- STATUS_START -->
-**Status: Day 10 complete** (last solved: 2026-08-23). Next up: Day 11 — Remove Element (2026-08-24).
+**Status: Day 11 complete** (last solved: 2026-08-24). Next up: Day 12 — Merge Sorted Array (2026-08-25).
 <!-- STATUS_END -->
 
 ## Ground rule

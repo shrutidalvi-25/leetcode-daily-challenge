@@ -20,6 +20,7 @@ table below unless you're fixing a mistake.
 | 8 | 2026-08-21 | Move Zeroes | Easy | Two-pointer/index technique: scan and shift non-zero elements to the front, then fill the remaining tail with zeroes. | O(n) / O(1) | [day-008-move-zeroes.java](solutions/day-008-move-zeroes.java) |
 | 9 | 2026-08-22 | Plus One | Easy | Two-pointer digit increment from the end with carry propagation; if all digits are 9, allocate new array of length+1 with leading 1 | O(n) / O(1) average, O(n) only for all-9s overflow case | [day-009-plus-one.java](solutions/day-009-plus-one.java) |
 | 10 | 2026-08-23 | Remove Duplicates from Sorted Array | Easy | Two-pointer: 'unique' marks the write position for the next unseen value; scan array and copy any element that differs from the last unique one, since the array is sorted duplicates are always adjacent. | O(n) / O(1) | [day-010-remove-duplicates-from-sorted-array.java](solutions/day-010-remove-duplicates-from-sorted-array.java) |
+| 11 | 2026-08-24 | Remove Element | Easy | two-pointer: k tracks write position for next kept element, overwrite in place when nums[i] != val | O(n) / O(1) | [day-011-remove-element.java](solutions/day-011-remove-element.java) |
 <!-- COMPLETE_DAY_INSERT_MARKER -->
 
 ## Redo log
