@@ -21,6 +21,7 @@ table below unless you're fixing a mistake.
 | 9 | 2026-08-22 | Plus One | Easy | Two-pointer digit increment from the end with carry propagation; if all digits are 9, allocate new array of length+1 with leading 1 | O(n) / O(1) average, O(n) only for all-9s overflow case | [day-009-plus-one.java](solutions/day-009-plus-one.java) |
 | 10 | 2026-08-23 | Remove Duplicates from Sorted Array | Easy | Two-pointer: 'unique' marks the write position for the next unseen value; scan array and copy any element that differs from the last unique one, since the array is sorted duplicates are always adjacent. | O(n) / O(1) | [day-010-remove-duplicates-from-sorted-array.java](solutions/day-010-remove-duplicates-from-sorted-array.java) |
 | 11 | 2026-08-24 | Remove Element | Easy | two-pointer: k tracks write position for next kept element, overwrite in place when nums[i] != val | O(n) / O(1) | [day-011-remove-element.java](solutions/day-011-remove-element.java) |
+| 12 | 2026-08-25 | Merge Sorted Array | Easy | three-pointer merge from the back: compare tail elements of nums1/nums2, place larger at k; copy remaining nums2 elements if any left | O(m+n) / O(1) | [day-012-merge-sorted-array.java](solutions/day-012-merge-sorted-array.java) |
 <!-- COMPLETE_DAY_INSERT_MARKER -->
 
 ## Redo log
