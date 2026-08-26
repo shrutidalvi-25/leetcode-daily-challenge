@@ -12,15 +12,15 @@ This schedule is shared with a friend doing the same challenge in parallel
 compare notes, but track progress in our own separate repos.
 
 <!-- STREAK_START -->
-🔥 **Current streak:** 6 days · **Longest streak:** 6 days
+🔥 **Current streak:** 7 days · **Longest streak:** 7 days
 <!-- STREAK_END -->
 
 <!-- PROGRESS_BAR_START -->
-`░░░░░░░░░░░░░░░░░░░░` **12 / 625 days (1.9%)**
+`░░░░░░░░░░░░░░░░░░░░` **13 / 625 days (2.1%)**
 <!-- PROGRESS_BAR_END -->
 
 <!-- STATUS_START -->
-**Status: Day 12 complete** (last solved: 2026-08-25). Next up: Day 13 — Squares of a Sorted Array (2026-08-26).
+**Status: Day 13 complete** (last solved: 2026-08-26). Next up: Day 14 — Single Number (2026-08-27).
 <!-- STATUS_END -->
 
 ## Ground rule
