@@ -12,15 +12,15 @@ This schedule is shared with a friend doing the same challenge in parallel
 compare notes, but track progress in our own separate repos.
 
 <!-- STREAK_START -->
-🔥 **Current streak:** 7 days · **Longest streak:** 7 days
+🔥 **Current streak:** 8 days · **Longest streak:** 8 days
 <!-- STREAK_END -->
 
 <!-- PROGRESS_BAR_START -->
-`░░░░░░░░░░░░░░░░░░░░` **13 / 625 days (2.1%)**
+`░░░░░░░░░░░░░░░░░░░░` **14 / 625 days (2.2%)**
 <!-- PROGRESS_BAR_END -->
 
 <!-- STATUS_START -->
-**Status: Day 13 complete** (last solved: 2026-08-26). Next up: Day 14 — Single Number (2026-08-27).
+**Status: Day 14 complete** (last solved: 2026-08-27). Next up: Day 15 — Intersection of Two Arrays II (2026-08-28).
 <!-- STATUS_END -->
 
 ## Ground rule
