@@ -24,6 +24,7 @@ table below unless you're fixing a mistake.
 | 12 | 2026-08-25 | Merge Sorted Array | Easy | copy nums2's elements into the empty tail of nums1, then sort the whole array with Arrays.sort() | O((m+n) log(m+n)) / O(1) extra | [day-012-merge-sorted-array.java](solutions/day-012-merge-sorted-array.java) |
 | 13 | 2026-08-26 | Squares of a Sorted Array | Easy | square each element then sort (built-in sort, not two-pointer) | O(n log n) / O(n) | [day-013-squares-of-a-sorted-array.java](solutions/day-013-squares-of-a-sorted-array.java) |
 | 14 | 2026-08-27 | Single Number | Easy | Brute-force double loop counting occurrences of each element. | O(n^2) / O(1) | [day-014-single-number.java](solutions/day-014-single-number.java) |
+| 15 | 2026-08-29 | Intersection of Two Arrays II | Easy | HashMap counts occurrences in nums1, then scan nums2 decrementing counts to collect matches | O(n + m) / O(min(n, m)) | [day-015-intersection-of-two-arrays-ii.java](solutions/day-015-intersection-of-two-arrays-ii.java) |
 <!-- COMPLETE_DAY_INSERT_MARKER -->
 
 ## Redo log

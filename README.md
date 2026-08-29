@@ -12,15 +12,15 @@ This schedule is shared with a friend doing the same challenge in parallel
 compare notes, but track progress in our own separate repos.
 
 <!-- STREAK_START -->
-🔥 **Current streak:** 8 days · **Longest streak:** 8 days
+🔥 **Current streak:** 1 day · **Longest streak:** 8 days
 <!-- STREAK_END -->
 
 <!-- PROGRESS_BAR_START -->
-`░░░░░░░░░░░░░░░░░░░░` **14 / 625 days (2.2%)**
+`░░░░░░░░░░░░░░░░░░░░` **15 / 625 days (2.4%)**
 <!-- PROGRESS_BAR_END -->
 
 <!-- STATUS_START -->
-**Status: Day 14 complete** (last solved: 2026-08-27). Next up: Day 15 — Intersection of Two Arrays II (2026-08-28).
+**Status: Day 15 complete** (last solved: 2026-08-29). Next up: Day 16 — Pascal's Triangle (2026-08-30).
 <!-- STATUS_END -->
 
 ## Ground rule
