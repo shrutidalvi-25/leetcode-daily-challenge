@@ -12,15 +12,15 @@ This schedule is shared with a friend doing the same challenge in parallel
 compare notes, but track progress in our own separate repos.
 
 <!-- STREAK_START -->
-🔥 **Current streak:** 1 day · **Longest streak:** 8 days
+🔥 **Current streak:** 2 days · **Longest streak:** 8 days
 <!-- STREAK_END -->
 
 <!-- PROGRESS_BAR_START -->
-`░░░░░░░░░░░░░░░░░░░░` **15 / 625 days (2.4%)**
+`█░░░░░░░░░░░░░░░░░░░` **16 / 625 days (2.6%)**
 <!-- PROGRESS_BAR_END -->
 
 <!-- STATUS_START -->
-**Status: Day 15 complete** (last solved: 2026-08-29). Next up: Day 16 — Pascal's Triangle (2026-08-30).
+**Status: Day 16 complete** (last solved: 2026-08-30). Next up: Day 17 — Roman to Integer (2026-08-31).
 <!-- STATUS_END -->
 
 ## Ground rule
