@@ -12,15 +12,15 @@ This schedule is shared with a friend doing the same challenge in parallel
 compare notes, but track progress in our own separate repos.
 
 <!-- STREAK_START -->
-🔥 **Current streak:** 2 days · **Longest streak:** 8 days
+🔥 **Current streak:** 3 days · **Longest streak:** 8 days
 <!-- STREAK_END -->
 
 <!-- PROGRESS_BAR_START -->
-`█░░░░░░░░░░░░░░░░░░░` **16 / 625 days (2.6%)**
+`█░░░░░░░░░░░░░░░░░░░` **17 / 625 days (2.7%)**
 <!-- PROGRESS_BAR_END -->
 
 <!-- STATUS_START -->
-**Status: Day 16 complete** (last solved: 2026-08-30). Next up: Day 17 — Roman to Integer (2026-08-31).
+**Status: Day 17 complete** (last solved: 2026-08-31). Next up: Day 18 — Longest Common Prefix (2026-09-01).
 <!-- STATUS_END -->
 
 ## Ground rule
