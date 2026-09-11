@@ -28,6 +28,7 @@ table below unless you're fixing a mistake.
 | 16 | 2026-08-30 | Pascal's Triangle | Easy | Row-by-row build: each row starts as all 1s, then interior values are the sum of the two values above (a[i-1][j-1] + a[i-1][j]). | O(numRows^2) / O(numRows^2) | [day-016-pascals-triangle.py](solutions/day-016-pascals-triangle.py) |
 | 17 | 2026-08-31 | Roman to Integer | Easy | if/else chain to map symbol to value, subtract when current symbol < next symbol (handles subtractive cases IV/IX/XL/XC/CD/CM naturally) | O(n) / O(1) | [day-017-roman-to-integer.java](solutions/day-017-roman-to-integer.java) |
 | 18 | 2026-09-08 | Longest Common Prefix | Easy | shrink candidate prefix from strs[0] char-by-char until every string starts with it | O(n*m) worst case / O(1) extra | [day-018-longest-common-prefix.java](solutions/day-018-longest-common-prefix.java) |
+| 19 | 2026-09-11 | Find the Index of the First Occurrence in a String | Easy | used Java's built-in String.indexOf(needle) to find the first occurrence directly | O(n*m) worst case / O(1) extra | [day-019-find-the-index-of-the-first-occurrence-in-a-string.java](solutions/day-019-find-the-index-of-the-first-occurrence-in-a-string.java) |
 <!-- COMPLETE_DAY_INSERT_MARKER -->
 
 ## Redo log

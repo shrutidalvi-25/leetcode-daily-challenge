@@ -16,11 +16,11 @@ compare notes, but track progress in our own separate repos.
 <!-- STREAK_END -->
 
 <!-- PROGRESS_BAR_START -->
-`█░░░░░░░░░░░░░░░░░░░` **18 / 625 days (2.9%)**
+`█░░░░░░░░░░░░░░░░░░░` **19 / 625 days (3.0%)**
 <!-- PROGRESS_BAR_END -->
 
 <!-- STATUS_START -->
-**Status: Day 18 complete** (last solved: 2026-09-08). Next up: Day 19 — Find the Index of the First Occurrence in a String (2026-09-09).
+**Status: Day 19 complete** (last solved: 2026-09-11). Next up: Day 20 — Length of Last Word (2026-09-12).
 <!-- STATUS_END -->
 
 ## Ground rule
