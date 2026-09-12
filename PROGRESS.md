@@ -30,6 +30,7 @@ table below unless you're fixing a mistake.
 | 18 | 2026-09-08 | Longest Common Prefix | Easy | shrink candidate prefix from strs[0] char-by-char until every string starts with it | O(n*m) worst case / O(1) extra | [day-018-longest-common-prefix.java](solutions/day-018-longest-common-prefix.java) |
 | 19 | 2026-09-11 | Find the Index of the First Occurrence in a String | Easy | used Java's built-in String.indexOf(needle) to find the first occurrence directly | O(n*m) worst case / O(1) extra | [day-019-find-the-index-of-the-first-occurrence-in-a-string.java](solutions/day-019-find-the-index-of-the-first-occurrence-in-a-string.java) |
 | 20 | 2026-09-12 | Length of Last Word | Easy | Walk backwards from the end: skip trailing spaces, then count characters until the next space or start of string | O(n) / O(1) | [day-020-length-of-last-word.java](solutions/day-020-length-of-last-word.java) |
+| 21 | 2026-09-12 | Isomorphic Strings | Easy | Two int arrays (size 256) storing last-seen index+1 per char position in s and t; mismatch if timestamps differ, ensures consistent 1-1 mapping | O(n) / O(1) | [day-021-isomorphic-strings.java](solutions/day-021-isomorphic-strings.java) |
 <!-- COMPLETE_DAY_INSERT_MARKER -->
 
 ## Redo log
