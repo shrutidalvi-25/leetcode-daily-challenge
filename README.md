@@ -12,15 +12,15 @@ This schedule is shared with a friend doing the same challenge in parallel
 compare notes, but track progress in our own separate repos.
 
 <!-- STREAK_START -->
-🔥 **Current streak:** 1 day · **Longest streak:** 8 days
+🔥 **Current streak:** 2 days · **Longest streak:** 8 days
 <!-- STREAK_END -->
 
 <!-- PROGRESS_BAR_START -->
-`█░░░░░░░░░░░░░░░░░░░` **19 / 625 days (3.0%)**
+`█░░░░░░░░░░░░░░░░░░░` **20 / 625 days (3.2%)**
 <!-- PROGRESS_BAR_END -->
 
 <!-- STATUS_START -->
-**Status: Day 19 complete** (last solved: 2026-09-11). Next up: Day 20 — Length of Last Word (2026-09-12).
+**Status: Day 20 complete** (last solved: 2026-09-12). Next up: Day 21 — Isomorphic Strings (2026-09-13).
 <!-- STATUS_END -->
 
 ## Ground rule
