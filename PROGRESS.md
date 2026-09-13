@@ -31,6 +31,7 @@ table below unless you're fixing a mistake.
 | 19 | 2026-09-11 | Find the Index of the First Occurrence in a String | Easy | used Java's built-in String.indexOf(needle) to find the first occurrence directly | O(n*m) worst case / O(1) extra | [day-019-find-the-index-of-the-first-occurrence-in-a-string.java](solutions/day-019-find-the-index-of-the-first-occurrence-in-a-string.java) |
 | 20 | 2026-09-12 | Length of Last Word | Easy | Walk backwards from the end: skip trailing spaces, then count characters until the next space or start of string | O(n) / O(1) | [day-020-length-of-last-word.java](solutions/day-020-length-of-last-word.java) |
 | 21 | 2026-09-12 | Isomorphic Strings | Easy | Two int arrays (size 256) storing last-seen index+1 per char position in s and t; mismatch if timestamps differ, ensures consistent 1-1 mapping | O(n) / O(1) | [day-021-isomorphic-strings.java](solutions/day-021-isomorphic-strings.java) |
+| 22 | 2026-09-13 | Ransom Note | Easy | HashMap-style int[26] frequency count of magazine chars, then decrement while scanning ransomNote (return false on zero count) | O(n+m) / O(1) | [day-022-ransom-note.java](solutions/day-022-ransom-note.java) |
 <!-- COMPLETE_DAY_INSERT_MARKER -->
 
 ## Redo log
