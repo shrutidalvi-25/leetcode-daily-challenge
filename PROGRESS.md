@@ -35,6 +35,7 @@ table below unless you're fixing a mistake.
 | 23 | 2026-09-13 | First Unique Character in a String | Easy | int[26] frequency count of chars, then scan again returning first index with count 1 | O(n) / O(1) | [day-023-first-unique-character-in-a-string.java](solutions/day-023-first-unique-character-in-a-string.java) |
 | 24 | 2026-10-16 | Add Binary | Easy | Two pointers from the end of both strings, adding digits plus carry; append sum%2 to a StringBuilder, carry=sum/2, reverse at the end. | O(max(m, n)) / O(max(m, n)) | [day-024-add-binary.java](solutions/day-024-add-binary.java) |
 | 25 | 2026-10-16 | Missing Number | Easy | Expected sum of 0..n via n(n+1)/2 minus the actual array sum gives the missing number. | O(n) / O(1) | [day-025-missing-number.java](solutions/day-025-missing-number.java) |
+| 26 | 2026-10-16 | Find All Numbers Disappeared in an Array | Easy | Brute force: for each number 1..n, scan the whole array to check if it appears; add it to the result if not found. | O(n^2) / O(1) extra | [day-026-find-all-numbers-disappeared-in-an-array.java](solutions/day-026-find-all-numbers-disappeared-in-an-array.java) |
 <!-- COMPLETE_DAY_INSERT_MARKER -->
 
 ## Redo log
