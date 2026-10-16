@@ -16,11 +16,11 @@ compare notes, but track progress in our own separate repos.
 <!-- STREAK_END -->
 
 <!-- PROGRESS_BAR_START -->
-`█░░░░░░░░░░░░░░░░░░░` **24 / 625 days (3.8%)**
+`█░░░░░░░░░░░░░░░░░░░` **25 / 625 days (4.0%)**
 <!-- PROGRESS_BAR_END -->
 
 <!-- STATUS_START -->
-**Status: Day 24 complete** (last solved: 2026-10-16). Next up: Day 25 — Missing Number (2026-10-17).
+**Status: Day 25 complete** (last solved: 2026-10-16). Next up: Day 26 — Find All Numbers Disappeared in an Array (2026-10-17).
 <!-- STATUS_END -->
 
 ## Ground rule

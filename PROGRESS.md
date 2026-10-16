@@ -34,6 +34,7 @@ table below unless you're fixing a mistake.
 | 22 | 2026-09-13 | Ransom Note | Easy | HashMap-style int[26] frequency count of magazine chars, then decrement while scanning ransomNote (return false on zero count) | O(n+m) / O(1) | [day-022-ransom-note.java](solutions/day-022-ransom-note.java) |
 | 23 | 2026-09-13 | First Unique Character in a String | Easy | int[26] frequency count of chars, then scan again returning first index with count 1 | O(n) / O(1) | [day-023-first-unique-character-in-a-string.java](solutions/day-023-first-unique-character-in-a-string.java) |
 | 24 | 2026-10-16 | Add Binary | Easy | Two pointers from the end of both strings, adding digits plus carry; append sum%2 to a StringBuilder, carry=sum/2, reverse at the end. | O(max(m, n)) / O(max(m, n)) | [day-024-add-binary.java](solutions/day-024-add-binary.java) |
+| 25 | 2026-10-16 | Missing Number | Easy | Expected sum of 0..n via n(n+1)/2 minus the actual array sum gives the missing number. | O(n) / O(1) | [day-025-missing-number.java](solutions/day-025-missing-number.java) |
 <!-- COMPLETE_DAY_INSERT_MARKER -->
 
 ## Redo log
