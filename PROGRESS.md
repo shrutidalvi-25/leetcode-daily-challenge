@@ -33,6 +33,7 @@ table below unless you're fixing a mistake.
 | 21 | 2026-09-12 | Isomorphic Strings | Easy | Two int arrays (size 256) storing last-seen index+1 per char position in s and t; mismatch if timestamps differ, ensures consistent 1-1 mapping | O(n) / O(1) | [day-021-isomorphic-strings.java](solutions/day-021-isomorphic-strings.java) |
 | 22 | 2026-09-13 | Ransom Note | Easy | HashMap-style int[26] frequency count of magazine chars, then decrement while scanning ransomNote (return false on zero count) | O(n+m) / O(1) | [day-022-ransom-note.java](solutions/day-022-ransom-note.java) |
 | 23 | 2026-09-13 | First Unique Character in a String | Easy | int[26] frequency count of chars, then scan again returning first index with count 1 | O(n) / O(1) | [day-023-first-unique-character-in-a-string.java](solutions/day-023-first-unique-character-in-a-string.java) |
+| 24 | 2026-10-16 | Add Binary | Easy | Two pointers from the end of both strings, adding digits plus carry; append sum%2 to a StringBuilder, carry=sum/2, reverse at the end. | O(max(m, n)) / O(max(m, n)) | [day-024-add-binary.java](solutions/day-024-add-binary.java) |
 <!-- COMPLETE_DAY_INSERT_MARKER -->
 
 ## Redo log

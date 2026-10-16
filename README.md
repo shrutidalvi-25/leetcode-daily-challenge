@@ -16,11 +16,11 @@ compare notes, but track progress in our own separate repos.
 <!-- STREAK_END -->
 
 <!-- PROGRESS_BAR_START -->
-`█░░░░░░░░░░░░░░░░░░░` **23 / 625 days (3.7%)**
+`█░░░░░░░░░░░░░░░░░░░` **24 / 625 days (3.8%)**
 <!-- PROGRESS_BAR_END -->
 
 <!-- STATUS_START -->
-**Status: Day 23 complete** (last solved: 2026-09-13). Next up: Day 24 — Add Binary (2026-09-14).
+**Status: Day 24 complete** (last solved: 2026-10-16). Next up: Day 25 — Missing Number (2026-10-17).
 <!-- STATUS_END -->
 
 ## Ground rule
