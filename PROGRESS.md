@@ -37,6 +37,7 @@ table below unless you're fixing a mistake.
 | 25 | 2026-10-16 | Missing Number | Easy | Expected sum of 0..n via n(n+1)/2 minus the actual array sum gives the missing number. | O(n) / O(1) | [day-025-missing-number.java](solutions/day-025-missing-number.java) |
 | 26 | 2026-10-16 | Find All Numbers Disappeared in an Array | Easy | Brute force: for each number 1..n, scan the whole array to check if it appears; add it to the result if not found. | O(n^2) / O(1) extra | [day-026-find-all-numbers-disappeared-in-an-array.java](solutions/day-026-find-all-numbers-disappeared-in-an-array.java) |
 | 27 | 2026-10-18 | Third Maximum Number | Easy | Sorted the array, then scanned from the largest end counting distinct values until the third distinct maximum; falls back to the max if fewer than 3 distinct. | O(n log n) / O(1) | [day-027-third-maximum-number.java](solutions/day-027-third-maximum-number.java) |
+| 28 | 2026-10-18 | Palindrome Number | Easy | Reverse the number digit by digit (rev = rev*10 + n%10) and compare it with the original; negative numbers return false immediately. | O(log n) / O(1) | [day-028-palindrome-number.java](solutions/day-028-palindrome-number.java) |
 <!-- COMPLETE_DAY_INSERT_MARKER -->
 
 ## Redo log

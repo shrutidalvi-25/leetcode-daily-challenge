@@ -16,11 +16,11 @@ compare notes, but track progress in our own separate repos.
 <!-- STREAK_END -->
 
 <!-- PROGRESS_BAR_START -->
-`█░░░░░░░░░░░░░░░░░░░` **27 / 625 days (4.3%)**
+`█░░░░░░░░░░░░░░░░░░░` **28 / 625 days (4.5%)**
 <!-- PROGRESS_BAR_END -->
 
 <!-- STATUS_START -->
-**Status: Day 27 complete** (last solved: 2026-10-18). Next up: Day 28 — Palindrome Number (2026-10-19).
+**Status: Day 28 complete** (last solved: 2026-10-18). Next up: Day 29 — Running Sum of 1d Array (2026-10-19).
 <!-- STATUS_END -->
 
 ## Ground rule
